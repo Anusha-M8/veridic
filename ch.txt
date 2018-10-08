@@ -1,1 +1,2 @@
 Hi
+Just applied changes in child
